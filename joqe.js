@@ -70,6 +70,7 @@ function _queryList(inSet,xpr) {
         });
         if ( !matched && !xpr.match(/^\s*$/) ) {
             console.log("Cannot parse expression after '"+xpr+"'");
+			break;
         }
     }
 
