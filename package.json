@@ -1,0 +1,29 @@
+{
+  "author": "David Oliveira <d.oliveira@prozone.org>",
+  "name": "joqe",
+  "description": "JOQE - Javascript Object Query Engine",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidfoliveira/node-joqe"
+  },
+  "main": "./joqe.js",
+  "bin": {},
+  "dependencies": { },
+  "scripts": {
+    "test": "./run_tests"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "license": "Copyleft",
+  "engines": {
+    "node": ">=0.10.5"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "selector",
+    "selectors",
+    "jquery"
+  ]
+}
